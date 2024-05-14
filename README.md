@@ -1,3 +1,3 @@
 # stockreturn
-Forecasting stock returns on a monthly basis using ML algorithms /n
+Forecasting stock returns on a monthly basis using ML algorithms <br>
 Weitere Details.
